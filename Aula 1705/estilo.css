@@ -1,0 +1,65 @@
+@font-face {
+    font-family: "Minha Fonte";
+    src: url("Gameplay.ttf");
+}
+body {
+   
+    font-family: "Arial";
+    margin: 0;
+    padding: 20px;
+    background-color: #C0E3F0;
+  }
+  
+  /* Estilo para o cabeçalho principal */
+  #intro-pag {
+    background-color: #B1D5EF(170, 53, 53);
+    color: #000000;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-family: "Minha Fonte";
+    font-size: 28px;
+    margin-top: 0;
+  }
+  
+  /* Estilo para a lista de jogos influentes */
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav li {
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para os conteúdos padrão */
+  .conteudo-padrao {
+    background-color: #FFFFFF;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
+  /* Estilo para as imagens */
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
+  
+  /* Estilo para o rodapé */
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #0369B2;
+    color: #fff;
+  }
